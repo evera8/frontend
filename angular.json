@@ -114,10 +114,20 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/jquery.min.js",
+              "src/assets/boobtstrap.min.js",
+              "src/assets/slick.min.js",
+              "src/assets/jquery.zoom.min.js",
+              "src/assets/nouislider.min.js"
+              
+            ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "e4f93f90-6437-4665-9eba-257896daec53"
   }
 }
